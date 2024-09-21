@@ -9,6 +9,7 @@ p {
   </style>
 </head>
 <body bgcolor="red"><marquee>hello</marquee>
-<p><center>always be happy</p></center
+<p><center>always be happy</p></center>
+<marquee> hi all</marquee>
 </body>
 </html>
